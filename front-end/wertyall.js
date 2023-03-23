@@ -31,9 +31,7 @@
     specy.style.display = "inline";
     specy.style.animationFillMode = "forwards";
     }
-    if (specy.style.animation == "100%"){
-        specy.style.marginLeft  = "40%"
-    }
+
 
     function se_im(){
     let specy = document.getElementById("wertyse_im");
