@@ -1,0 +1,522 @@
+.menu
+{
+    margin-top: -15px;
+    background-color: rgba(174, 252, 202, 0.801);
+    height: 120px;
+    width: 100%;
+    box-shadow:  0px 2px 0px 0px rgba(124, 124, 124, 0.748);
+}
+.menufon
+{
+   margin-top: -15px;
+    background-color: rgb(0, 255, 149);
+    height: 120px;
+    width: 100%;
+}
+nav .menulist
+{
+   display: inline-block;
+   position: relative;
+}
+.bar1
+{
+   text-decoration: none;
+   font-size: 30px;
+   margin-left: 220px;
+   margin-top: -90px;
+}
+.bar1 a
+{
+   text-decoration: none;
+   color: aliceblue;
+}
+.bar2
+{
+   margin: 0;
+}
+.bar2 a
+{
+   text-decoration: none;
+   color: aliceblue;
+}
+.bar3
+{
+   margin: 0;
+}
+.bar3 a
+{
+   text-decoration: none;
+   color: aliceblue;
+}
+.menu li
+{
+    display: inline;
+    position: relative;
+    padding: 0;
+    
+}
+.menu a
+{
+    text-decoration: none;
+    color: black;
+    
+    font-size: 30px ;
+    margin-left: 150px;
+    
+}
+button
+{
+    color: white;
+    background-color: #037853da;
+    text-decoration: none;
+    border-radius: 5px;
+    float: right;
+    margin-top: -110px;
+    margin-right: 160px;
+    border: none;
+    height: 20px;
+    width: max-content;
+    box-shadow:  1px 1px rgb(143, 142, 142);
+}
+
+ .list li
+{
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin: 0;
+    display: list-item;
+    
+    width: max-content;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+.list a
+{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    margin-right: 5px;
+}
+
+.fon
+{
+    background-color: rgb(66, 251, 189);
+    border-radius: 20px;
+    height: 690px;
+    width: 490px;
+    margin-top: 80px;
+    margin-left: 220px;
+    box-shadow:  4px 5px 0px 0px rgba(58, 57, 57, 0.748);
+}
+.fon1
+{
+    background-color: rgb(66, 251, 189);
+    border-radius: 20px;
+    height: 420px;
+    width: 490px;
+    margin-top: 80px;
+    margin-left: 220px;
+    box-shadow:  4px 5px 0px 0px rgba(58, 57, 57, 0.748);
+}
+.liststar
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 4px 5px 0px 0px rgba(255, 233, 63, 0.748);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -660px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listour
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -570px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listgood
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -480px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listbad
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -390px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listse-im
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -300px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listac-of-go
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -210px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listskill-dev
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -120px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.list6
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -540px;
+}
+.list6 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.list7
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -450px;
+}
+.list7 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.list8
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -360px;
+}
+.list8 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.list9
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -270px;
+}
+.list9 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.list10
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -180px;
+}
+.list10 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.list11
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 72px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -90px;
+}
+.list11 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+#firstblock{
+margin-top: 10%;
+}
+
+
+
+
+.listgood1
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -390px;
+}
+.listgood1 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listgood2
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -300px;
+}
+.listgood2 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listgood3
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -210px;
+}
+.listgood3 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.listgood4
+{
+    background-color: rgba(255, 255, 255, 0.806);
+    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
+    border-radius: 25px;
+    border: none;
+    text-align: center;
+    font-size: 32px;
+    width: 456px;
+    height: 70px;
+    float: left;
+    margin-left: 235px;
+    margin-top: -120px;
+}
+.listgood4 a
+{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#firstblock
+{
+    margin-top: 10%;
+}
+#wertygood{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+    
+}
+#wertybad
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+#wertystar
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+#wertyour
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+#wertyse_im
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+#wertyac_of_go
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+#wertyskill_dev
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
+@keyframes  geroin {
+    0%{
+        margin-left: 90%;
+        display: inline;
+
+    }
+    15%{
+        margin-left: 82%;
+        display: inline; 
+    }
+    30%{
+        margin-left: 72%;
+        display: inline;
+    }
+    45%{
+        margin-left: 62%;
+        display: inline;
+    }
+    60%{
+        margin-left: 52%;
+        display: inline;
+    }
+    75%{
+        margin-left: 42%;
+        display: inline;
+    }
+    
+    100%{
+        margin-left: 40%;
+        display: inline;
+    }
+}
