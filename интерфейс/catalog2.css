@@ -1,68 +1,26 @@
 .menu
 {
-    margin-top: -15px;
+    margin-top: -10px;
+    margin-left: -10px;
     background-color: rgba(174, 252, 202, 0.801);
     height: 120px;
     width: 100%;
     box-shadow:  0px 2px 0px 0px rgba(124, 124, 124, 0.748);
 }
-.menufon
-{
-   margin-top: -15px;
-    background-color: rgb(0, 255, 149);
-    height: 120px;
-    width: 100%;
-}
-nav .menulist
-{
-   display: inline-block;
-   position: relative;
-}
-.bar1
-{
-   text-decoration: none;
-   font-size: 30px;
-   margin-left: 220px;
-   margin-top: -90px;
-}
-.bar1 a
-{
-   text-decoration: none;
-   color: aliceblue;
-}
-.bar2
-{
-   margin: 0;
-}
-.bar2 a
-{
-   text-decoration: none;
-   color: aliceblue;
-}
-.bar3
-{
-   margin: 0;
-}
-.bar3 a
-{
-   text-decoration: none;
-   color: aliceblue;
-}
 .menu li
 {
     display: inline;
     position: relative;
-    padding: 0;
     
+    top: 35px;
+    left: 40px;
 }
 .menu a
 {
     text-decoration: none;
-    color: black;
-    
+    color: black;   
     font-size: 30px ;
-    margin-left: 150px;
-    
+    margin-left: 170px;
 }
 button
 {
@@ -78,28 +36,6 @@ button
     width: max-content;
     box-shadow:  1px 1px rgb(143, 142, 142);
 }
-
- .list li
-{
-    background-color: aliceblue;
-    border-radius: 5px;
-    margin: 0;
-    display: list-item;
-    
-    width: max-content;
-    margin-bottom: 10px;
-    margin-top:10px;
-}
-.list a
-{
-    font-size: 20px;
-    text-align: center;
-    padding-bottom: 10px;
-    text-decoration: none;
-    color: black;
-    margin-right: 5px;
-}
-
 .fon
 {
     background-color: rgb(66, 251, 189);
@@ -119,6 +55,14 @@ button
     margin-top: 80px;
     margin-left: 220px;
     box-shadow:  4px 5px 0px 0px rgba(58, 57, 57, 0.748);
+}
+.foninfo
+{
+    background-color: rgb(248, 246, 242);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: rgb(66, 251, 189) solid 3px;
 }
 .liststar
 {
@@ -232,129 +176,6 @@ button
     color: black;
     text-decoration: none;
 }
-
-.list6
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -540px;
-}
-.list6 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-.list7
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -450px;
-}
-.list7 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-.list8
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -360px;
-}
-.list8 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-.list9
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -270px;
-}
-.list9 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-.list10
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -180px;
-}
-.list10 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-.list11
-{
-    background-color: rgba(255, 255, 255, 0.806);
-    box-shadow: inset 2px 3px 0px 0px rgb(143, 142, 142);
-    border-radius: 25px;
-    text-align: center;
-    font-size: 32px;
-    width: 456px;
-    height: 72px;
-    float: left;
-    margin-left: 235px;
-    margin-top: -90px;
-}
-.list11 a
-{
-    text-align: center;
-    color: black;
-    text-decoration: none;
-}
-
-#firstblock{
-margin-top: 10%;
-}
-
-
-
-
 .listgood1
 {
     background-color: rgba(255, 255, 255, 0.806);
@@ -368,12 +189,13 @@ margin-top: 10%;
     float: left;
     margin-left: 235px;
     margin-top: -390px;
-}
-.listgood1 a
-{
     text-align: center;
     color: black;
     text-decoration: none;
+}
+.listgood1::after
+{
+    zoom: 10px;
 }
 .listgood2
 {
@@ -388,9 +210,6 @@ margin-top: 10%;
     float: left;
     margin-left: 235px;
     margin-top: -300px;
-}
-.listgood2 a
-{
     text-align: center;
     color: black;
     text-decoration: none;
@@ -408,9 +227,6 @@ margin-top: 10%;
     float: left;
     margin-left: 235px;
     margin-top: -210px;
-}
-.listgood3 a
-{
     text-align: center;
     color: black;
     text-decoration: none;
@@ -428,9 +244,6 @@ margin-top: 10%;
     float: left;
     margin-left: 235px;
     margin-top: -120px;
-}
-.listgood4 a
-{
     text-align: center;
     color: black;
     text-decoration: none;
@@ -439,12 +252,18 @@ margin-top: 10%;
 {
     margin-top: 10%;
 }
+#wertyinfo
+{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 90%;
+    display: none;
+}
 #wertygood{
     position: absolute;
     margin-top: 5%;
     margin-left: 90%;
     display: none;
-    
 }
 #wertybad
 {
@@ -518,5 +337,60 @@ margin-top: 10%;
     100%{
         margin-left: 40%;
         display: inline;
+    }
+}
+#button
+{
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgb(66, 251, 189);
+    width: 60px;
+    height: 60px;
+    margin-right: -1px;
+}
+#button:hover 
+{
+    background-color: #666666;
+    box-shadow: 2px 4px #999999;
+}
+@keyframes  info {
+    0%{
+        margin-left: 90%;
+        display: inline;
+        z-index: 0;
+    }
+    15%{
+        margin-left: 82%;
+        display: inline; 
+        z-index: 1;
+    }
+    30%{
+        margin-left: 72%;
+        display: inline;
+        z-index: 1;
+    }
+    45%{
+        margin-left: 62%;
+        display: inline;
+        z-index: 1;
+    }
+    60%{
+        margin-left: 52%;
+        display: inline;
+        z-index: 1;
+    }
+    75%{
+        margin-left: 42%;
+        display: inline;
+        z-index: 1;
+    }
+    
+    100%{
+        margin-left: 40%;
+        display: inline;
+        z-index: 1;
     }
 }
